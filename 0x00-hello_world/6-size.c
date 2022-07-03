@@ -1,5 +1,4 @@
-#!/bin/bash
-#Include <stdio.h>
+#include <stdio.h>
 /**
  *
  * main - prints size of various types
